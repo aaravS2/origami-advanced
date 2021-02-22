@@ -1,0 +1,97 @@
+p{
+    text-align: center;
+    color: #fdf3ff16;
+}
+font{
+    color: chocolate;
+    font-family: 'Courier New', Courier, monospace;
+}
+font:hover{
+    color: cyan;
+    font-size: 20px;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h3:hover{
+    font-family:cursive;
+color: cornflowerblue;
+}
+
+.one{
+    display: flex;
+    justify-content:center;
+    background-color:#160;
+}
+.one:hover{
+    background-color: deeppink;
+}
+.one1{
+    display: flex;
+    background-color: #f556;
+    text-align: center;
+    justify-content: center;
+}
+
+.img1{
+    display: flex;
+    background-color: #ffa500;
+   justify-content: center;
+    border:#261875;;
+    opacity: 0.2;
+}
+.img1:hover{
+ opacity: 20;
+}
+.img2{
+    display: flex;
+    background-color: #8fbc85;
+   
+    justify-content: center;
+    opacity: 0.2;
+    image-orientation: 20turn;
+}
+.img2:hover{
+    opacity: 20;
+}
+.img3{
+    display: flex;
+    background-color: #ff8fff;
+   
+    justify-content: center;
+    opacity: 0.2;
+}
+.img3:hover{
+    opacity: 2;
+}
+.img4{
+    display: flex;
+    background-color:#269;
+   
+    justify-content: center;
+    opacity: 0.2;
+}
+.img4:hover{
+    opacity: 2;
+}
+.img5{
+    display: flex;
+    background-color: #8715;
+   
+    justify-content: center;
+    opacity: 0.2;
+}
+.img5:hover{
+    opacity: 2;
+}
+.img6{
+    display: flex;
+    background-color: #221;
+   
+    justify-content: center;
+    opacity: 0.2;
+}
+.img6:hover{
+    opacity: 2;
+}
